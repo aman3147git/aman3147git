@@ -55,8 +55,9 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Rank 1 in **Code to Win** contest at college  
-- 🛡️ **Knight Rank** on LeetCode  
+- 🛡️ Achieved Knight Rank on LeetCode 
+- 🎯 Secured 3⭐ Rating on CodeChef
+- 📜 Earned dual ServiceNow CSA & CAD Certifications 
 
 ---
 
