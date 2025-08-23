@@ -2,7 +2,8 @@
 
 🎓 4th Year CSE Student @ IIIT Bhagalpur  
 💻 MERN Stack Developer | Problem Solver | DevOps   
-🚀 Passionate about building scalable full-stack applications & solving real-world problems  
+💡 Solved 1000+ Problems on LeetCode + GFG
+🚀 Passionate about building scalable full-stack applications & solving real-world problems 
 
 ---
 
@@ -55,9 +56,12 @@
 ---
 
 ## 🏆 Achievements
-- 🛡️ Achieved Knight Rank on LeetCode 
+- 🛡️ Achieved Knight Rank on LeetCode
 - 🎯 Secured 3⭐ Rating on CodeChef
-- 📜 Earned dual ServiceNow CSA & CAD Certifications 
+- 📜 Earned dual ServiceNow CSA & CAD Certifications
+- ⚡ Recognized in HP Power Lab – Top 0.1% Nationwide (National Semifinalist, 180 out of 1.3 Lakh participants)
+- 🥇 Flipkart GRiD 6.0 – Top 1.65%
+- 🧪 Secured 4th Place in Smart India Hackathon (Internal)
 
 ---
 
