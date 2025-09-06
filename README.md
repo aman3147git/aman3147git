@@ -42,6 +42,12 @@
 - [🔗 Live Demo](https://aman-spotify.onrender.com/)
 
 
+### 💻 [ITAsset Tracking System (MERN + Redux)](https://github.com/aman3147git/ITAssetsTrack)
+- Built an IT Asset Request & Approval platform inspired by ServiceNow’s Service Catalog & Request Management.  
+- Designed a request lifecycle workflow (Submit → Approve/Reject), similar to ServiceNow’s Flow Designer/Workflow automation.
+- Features include request justification, history tracking, and approval visibility, reflecting ServiceNow-style audit trails.  
+
+
 ### 🏠 [Property Trading Platform (MERN + Firebase)](https://github.com/aman3147git/marketplace)
 - Platform where users can list, buy, and sell properties.
 - Features JWT authentication, Cloudinary image uploads, and real-time updates.
